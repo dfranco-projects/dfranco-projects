@@ -23,10 +23,10 @@
 
 ---
 
-### 📦 Packages
+### 📦 ML & DL Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,fastapi" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,fastapi,opencv" />
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" width="40" height="40" />
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" alt="Numpy", width="40" height="40" />
 </p>
