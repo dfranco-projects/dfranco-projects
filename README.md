@@ -9,7 +9,7 @@
 
 ---
 
-### 👨‍💻 Languages
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,bash,r,html,css,markdown,latex" />
