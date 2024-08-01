@@ -9,13 +9,13 @@
 
 ---
 
-### 🛠️ Languages
+### 👨‍💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,bash,r,html,css,markdown,latex" />
 </p>
 
-### 🧰 Tools
+### 🛠️ Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,anaconda,docker,mysql,mongodb,git,github" />
@@ -23,7 +23,7 @@
 
 ---
 
-### 📦 ML & DL Libraries
+### 📖 ML & DL Libraries
 
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,fastapi,opencv" />
