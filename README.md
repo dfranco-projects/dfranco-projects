@@ -1,6 +1,8 @@
 <h2> Hi, I'm Daniel Franco! 👋 </h2>
 <p><em>Business Analyst at <a href="https://mc.sonae.pt" target="_blank">Sonae MC</a></br>Data Science Student at <a href="https://www.novaims.unl.pt/" target="_blank">NOVA IMS University</a></em></p>
 
+### 📬 Contact Me
+
 [![Gmail](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniel.franco.inbox@gmail.com)](mailto:daniel.franco.inbox@gmail.com)
 [![LinkedIn: danielabrantesfranco](https://img.shields.io/badge/-danielfranco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-abrantes-franco/)](https://www.linkedin.com/in/daniel-abrantes-franco/)
 [![GitHub](https://img.shields.io/github/followers/dfranco-projects?label=follow&style=social)](https://github.com/dfranco-projects)
@@ -10,7 +12,7 @@
 ### 🛠️ Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,r,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,bash,r,html,css,markdown,latex" />
 </p>
 
 ### 🧰 Tools
