@@ -1,5 +1,5 @@
 <h2> Hi, I'm Daniel Franco! 👋 </h2>
-<p><em>Geospatial Data Science at <a href="https://mc.sonae.pt" target="_blank">Sonae MC</a></br>Data Science Student at <a href="https://www.novaims.unl.pt/" target="_blank">NOVA IMS University</a></em></p>
+<p><em>Geospatial Data Science at <a href="https://mc.sonae.pt" target="_blank">Sonae MC</a></br>Data Science & Advanced Analytics Student at <a href="https://www.novaims.unl.pt/" target="_blank">NOVA IMS University</a></em></p>
 
 ### 📬 Get in Touch
 
